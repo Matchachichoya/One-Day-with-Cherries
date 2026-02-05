@@ -1,4 +1,16 @@
-body 
-{
- background-color:pink;
+body{
+ background:#f7dfe4;
+ color:#FFFFFF;
+ width:100%; 
+ font-family:Adelaide  
+ margin:0 auto;
+}
+
+.header{
+ width:90%;  
+ margin:auto;
+ height:120px; 
+ line-height:120px; 
+ background:#f7c8c9; 
+ color:#FFFFFF;
 }
