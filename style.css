@@ -42,6 +42,11 @@ body{
     text-decoration:none; 
 }
 
+.menu ul li a:hover {
+    background-color:#BF3853;
+    display:block;
+}
+
 
 
 
